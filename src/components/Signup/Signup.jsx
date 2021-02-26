@@ -98,7 +98,7 @@ const Signup = ({ data, onChange, onSubmit }) => {
                     </Button>
                     <Grid container justify="flex-end">
                         <Grid item> Already have an account?
-                            <Link to="/signin"> Log in</Link>
+                            <Link to="/login"> Log in</Link>
                         </Grid>
                     </Grid>
                 </form>
